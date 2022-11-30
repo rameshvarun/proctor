@@ -2,7 +2,7 @@
 
 ![](proctor.gif)
 
-This is the source code for Proctor, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be easily extracted from the `.love` distributed on itch.io.
+This is the source code for Proctor, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be extracted from the `.love` distributed on itch.io.
 
 ## External Content Included
 - [Penlight](https://github.com/lunarmodules/Penlight) (MIT)
