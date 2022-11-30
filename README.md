@@ -6,7 +6,7 @@
 
 This is the source code for Proctor, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be extracted from the `.love` distributed on itch.io. Check out [the postmortem](https://blog.varunramesh.net/posts/proctor-postmortem/) on my blog.
 
-## External Content Included
+## Third-party Content
 - [Penlight](https://github.com/lunarmodules/Penlight) (MIT)
 - [Hump](https://github.com/vrld/hump) (MIT)
 - [inspect.lua](https://github.com/kikito/inspect.lua) (MIT)
