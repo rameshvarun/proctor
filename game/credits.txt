@@ -1,0 +1,19 @@
+Robot voices generated using FromTextToSpeech.com
+
+Roboto font by Google (Apache License)
+Future n0t Found font by Michael Moss (CC BY)
+
+Robot model by BlendSwap user SONGKRO (CC0)
+Skeleton model by BlendSwap user Shachar (CC BY)
+Some models/textures created by Christophe Seux (CC0)
+
+Jumpscare noise by FreeSound user qubodup (CC0)
+Pencil sound by FreeSound user tmkappelt (CC Sampling+)
+Horror ambience by FreeSound user klankbeeld (CC BY)
+Page flip sound from Sound Jay
+School bell sound from freesfx.co.uk
+Sharp punch sound by SoundBible user CGEffex  (CC Sampling+)
+Click sound by SoundBible user Sebastian (CC BY)
+Stock Media provided by MatiasMacSD / Pond5
+
+Keyboard prompts by user xelu on OpenGameArt (CC0)
