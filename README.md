@@ -19,4 +19,5 @@ This is the source code for Proctor, a horror game I released on Itch.io in 2018
 - [lurker](https://github.com/rxi/lurker) (MIT)
 - [middleclass](https://github.com/kikito/middleclass) (MIT)
 - [stateful.lua](https://github.com/kikito/stateful.lua) (MIT)
+- [Gold Noise Shader](https://stackoverflow.com/a/28095165) (CC BY-SA 3.0)
 - Names generated from https://donjon.bin.sh/fantasy/name/
