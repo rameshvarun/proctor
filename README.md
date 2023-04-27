@@ -7,7 +7,7 @@
   <a href="https://varunramesh.itch.io/proctor">[Play on Itch.io]</a>
 </p>
 
-This is the source code for Proctor, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be extracted from the `.love` distributed on itch.io. Check out [the postmortem](https://blog.varunramesh.net/posts/proctor-postmortem/) on my blog.
+This is the source code for Proctor, a horror game I released on Itch.io in 2018. It doesn't contain the game's assets, only the code and some external libraries. The game assets can be extracted from the `.love` distributed on itch.io. Be aware that the assets are proprietary and may not be shared. Check out [the postmortem](https://blog.varunramesh.net/posts/proctor-postmortem/) on my blog.
 
 ## Third-party Content
 - [Penlight](https://github.com/lunarmodules/Penlight) (MIT)
